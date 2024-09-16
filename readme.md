@@ -1,5 +1,3 @@
-# **Curriculos-Turma-TSI-2024-2**
-
 Currículos da turma de TSI 2024/2  para a disciplina de Desenvolvimento Front End.
 
 <ol>
